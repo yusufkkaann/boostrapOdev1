@@ -1,0 +1,10 @@
+.bg-color{
+    background-color: #E9ECEF;
+}
+.list-position {
+    list-style-position: inside;
+}
+.buton-center{
+    text-align: center;
+    margin-left: 500px;
+}
